@@ -49,7 +49,7 @@ const Navbar = () => {
           id="navbar-cta"
         >
           <div className="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white">
-            <NavLink to="/home">
+            <NavLink to="/">
               <span
                 className="block py-2 pl-3 pr-4 text-blue hover:text-purple md:p-0"
                 aria-current="page"
