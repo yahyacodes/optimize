@@ -8,6 +8,7 @@ const HowItWorks = () => {
           How It Works
         </h1>
 
+        {/* Below are the steps showing how this product works */}
         <div className="grid grid-cols-3 text-center gap-4 mx-auto">
           <div className="border-t-4 border-purple pt-4">
             <p className="uppercase text-purple font-display">Step 1</p>

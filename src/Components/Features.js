@@ -11,6 +11,7 @@ const Features = () => {
       <div className="container px-4 mx-auto">
         <div>
           <div className="flex flex-wrap">
+            {/* Performance Feature */}
             <div className="w-full text-center md:w-1/2 lg:w-1/4 lg:px-8 mb-20 lg:mb-0">
               <div className="flex mb-2 justify-center items-center w-20 h-20 bg-lightBlue rounded mx-auto">
                 <BsGraphUp className="text-white w-16 h-16" />
@@ -23,6 +24,7 @@ const Features = () => {
               </p>
             </div>
 
+            {/* Backup Feature */}
             <div className="w-full text-center md:w-1/2 lg:w-1/4 px-6 lg:px-8 mb-2 lg:mb-0">
               <div className="flex mb-2 justify-center w-20 h-20 bg-tale rounded mx-auto">
                 <AiFillDatabase className="text-white w-16 h-20" />
@@ -36,6 +38,7 @@ const Features = () => {
               </p>
             </div>
 
+            {/* Security Feature */}
             <div className="w-full text-center md:w-1/2 lg:w-1/4 px-6 lg:px-8 mb-2 lg:mb-0">
               <div className="flex mb-2 justify-center w-20 h-20 bg-green-500 rounded mx-auto">
                 <VscGistSecret className="text-white w-16 h-20" />
@@ -49,6 +52,7 @@ const Features = () => {
               </p>
             </div>
 
+            {/* Pricing Feature */}
             <div className="w-full text-center md:w-1/2 lg:w-1/4 px-6 lg:px-8 mb-2 lg:mb-0">
               <div className="flex mb-2 justify-center w-20 h-20 bg-orange-400 rounded mx-auto">
                 <BsCurrencyDollar className="text-white w-16 h-20" />

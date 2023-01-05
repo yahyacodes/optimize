@@ -4,6 +4,7 @@ import { NavLink } from "react-router-dom";
 
 import logo from "../optimize-images/ic-optimize.svg";
 
+// Uses react-router-dom
 const Navbar = () => {
   return (
     <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded shadow">

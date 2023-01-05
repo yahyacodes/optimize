@@ -15,6 +15,7 @@ const Pricing = () => {
         </p>
       </div>
 
+      {/* PricingCards */}
       <div className="relative mt-8 max-w-2xl mx-auto px-4 pb-8 sm:mt-12 sm:px-6 lg:max-w-7xl lg:px-8 lg:pb-0">
         <div
           aria-hidden="true"
