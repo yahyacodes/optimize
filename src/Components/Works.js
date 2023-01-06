@@ -2,7 +2,7 @@ import React from "react";
 
 const HowItWorks = () => {
   return (
-    <section className="relative py-20 2xl:py-20 overflow-hidden bg-green-50">
+    <section className="relative py-20 2xl:py-20 overflow-hidden bg-blue-50">
       <div className="container px-4 mx-auto">
         <h1 className="text-center text-3xl lg:text-4xl font-display font-heading mb-10">
           How It Works

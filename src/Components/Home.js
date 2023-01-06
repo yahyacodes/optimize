@@ -17,7 +17,7 @@ const Home = () => {
             <div className="py-0 md:py-12 md:p-20 mt-10">
               <div className="relative max-w-xl mx-auto lg:mx-0 mb-8 text-center lg:text-left">
                 <h1 className="text-4xl text-gray-700 font-display">
-                  Optimize your site <span className="text-blue">before </span>
+                  Optimize your site <span className="text-navy">before </span>
                   going live
                 </h1>
                 <p className="text-base text-gray-400 font-body">
@@ -28,13 +28,13 @@ const Home = () => {
               </div>
               <button
                 type="button"
-                className="block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-display bg-blue hover:bg-tale rounded sm:ml-10"
+                className="block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-display bg-navy hover:bg-tale rounded sm:ml-10"
               >
                 Default
               </button>
               <button
                 type="button"
-                className="block sm:inline-block py-4 px-8 text-xs text-blue hover:text-tale text-center font-display bg-white border border-blue hover:border-tale rounded mt-2"
+                className="block sm:inline-block py-4 px-8 text-xs text-navy hover:text-tale text-center font-display bg-white border border-navy hover:border-tale rounded mt-2"
               >
                 Alternative
               </button>

@@ -19,7 +19,7 @@ const Pricing = () => {
       <div className="relative mt-8 max-w-2xl mx-auto px-4 pb-8 sm:mt-12 sm:px-6 lg:max-w-7xl lg:px-8 lg:pb-0">
         <div
           aria-hidden="true"
-          className="hidden absolute top-4 bottom-6 left-8 right-8 inset-0 bg-blue rounded-tl-lg rounded-tr-lg lg:block"
+          className="hidden absolute top-4 bottom-6 left-8 right-8 inset-0 bg-navy rounded-tl-lg rounded-tr-lg lg:block"
         ></div>
         <div className="relative space-y-6 lg:bg-transparent py-6 px-6 pb-3 rounded-lg lg:px lg:py-12">
           <h3 className="text-white text-sm font-display uppercase tracking-wide">

@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="flex md:order-2">
           <button
             type="button"
-            className="text-white bg-blue hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+            className="text-white bg-navy hover:bg-navy-800 focus:ring-4 focus:outline-none focus:ring-navy-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-navy-600 dark:hover:bg-navy-700 dark:focus:ring-navy-800"
           >
             Get started
           </button>
@@ -52,24 +52,24 @@ const Navbar = () => {
           <div className="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white">
             <NavLink to="/">
               <span
-                className="block py-2 pl-3 pr-4 text-blue hover:text-purple md:p-0"
+                className="block py-2 pl-3 pr-4 text-navy hover:text-purple md:p-0"
                 aria-current="page"
               >
                 Home
               </span>
             </NavLink>
             <NavLink to="/about">
-              <span className="block py-2 pl-3 pr-4 text-blue hover:text-purple md:p-0">
+              <span className="block py-2 pl-3 pr-4 text-navy hover:text-purple md:p-0">
                 About
               </span>
             </NavLink>
             <NavLink to="/services">
-              <span className="block py-2 pl-3 pr-4 text-blue hover:text-purple md:p-0">
+              <span className="block py-2 pl-3 pr-4 text-navy hover:text-purple md:p-0">
                 Services
               </span>
             </NavLink>
             <NavLink>
-              <span className="block py-2 pl-3 pr-4 text-blue hover:text-purple md:p-0">
+              <span className="block py-2 pl-3 pr-4 text-navy hover:text-purple md:p-0">
                 Contact
               </span>
             </NavLink>
