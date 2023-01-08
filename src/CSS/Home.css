@@ -1,3 +1,9 @@
 .bg-bn {
   background-image: url("/src/optimize-images/hero-bg.jpg");
 }
+
+.test-bg-bn {
+  background-image: url("/src/optimize-images/qqquad.svg");
+  margin-left: 10rem;
+  padding: 5rem;
+}

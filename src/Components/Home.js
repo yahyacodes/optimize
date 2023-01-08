@@ -6,7 +6,10 @@ import "../CSS/Home.css";
 import adobestock from "../optimize-images/Untitled-2-removebg-preview.png";
 import Features from "./Features";
 import Pricing from "./Pricing";
+import Testimonials from "./Testimonials";
+import Contact from "./Contact";
 import HowItWorks from "./Works";
+import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -54,6 +57,9 @@ const Home = () => {
       <Features />
       <HowItWorks />
       <Pricing />
+      <Testimonials />
+      <Contact />
+      <Footer />
     </>
   );
 };
